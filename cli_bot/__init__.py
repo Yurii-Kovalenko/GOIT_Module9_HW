@@ -1,0 +1,1 @@
+from .cli_bot import main
